@@ -9,15 +9,26 @@ saya berserta teman saya @wahpratama hendak membangun web sekolah kami yang lebi
 - [ ] Landing page
 - [ ] Prestasi sekolah
 - [ ] Kegiatan sekolah
+- [ ] connect mongoDB with mongoose
+- [ ] create mongoose api with express
 - [ ] Alumni
 - [ ] Guru dan staff
 - [ ] denah & alamat sekolah
 - [ ] media sosial / kontak sekolah (footer)
+- [ ] No internet handler
+
+## backend Todo:
 
 ## Local Usage
+- [ ] connect mongoDB with mongoose
+- [ ] create mongoose api with express
+- [ ] connect mongoDB with mongoose
+- [ ] create mongoose api with express
+
 ```
 $ git clone https://github.com/tera3xbyte/smpn13denpasar.git
 $ cd smpn13denpasar
+$ cat process.env.local
 $ npm install
 $ npm run dev
 ```

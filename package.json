@@ -1,6 +1,6 @@
 {
   "name": "smp13denpasar",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -16,5 +16,24 @@
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.4",
     "vite": "^2.9.12"
-  }
+  },
+  "description": "dikarenakan kami telah lulus dari SMP Negeri 13 Denpasar, kami ingin memberi 'Tribute' kepada sekolah kami.\r saya berserta teman saya @wahpratama hendak membangun web sekolah kami yang lebih modern dan interaktif,",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tera3xbyte/smpn13denpasar.git"
+  },
+  "keywords": [
+    "smp",
+    "smpn13denpasar",
+    "smpnegri13denpasar",
+    "Denpasar",
+    "PPDB"
+  ],
+  "author": "tera3xbyte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tera3xbyte/smpn13denpasar/issues"
+  },
+  "homepage": "https://github.com/tera3xbyte/smpn13denpasar#readme"
 }
