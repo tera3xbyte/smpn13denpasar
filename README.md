@@ -9,8 +9,6 @@ saya berserta teman saya @wahpratama hendak membangun web sekolah kami yang lebi
 - [ ] Landing page
 - [ ] Prestasi sekolah
 - [ ] Kegiatan sekolah
-- [ ] connect mongoDB with mongoose
-- [ ] create mongoose api with express
 - [ ] Alumni
 - [ ] Guru dan staff
 - [ ] denah & alamat sekolah
