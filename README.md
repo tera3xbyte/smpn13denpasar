@@ -19,7 +19,7 @@ saya berserta teman saya @wahpratama hendak membangun web sekolah kami yang lebi
 
 ## Local Usage
 - [ ] connect mongoDB with mongoose
-- [ ] create mongoose api with express
+- [ ] create mongoose rest api with express
 - [ ] connect mongoDB with mongoose
 - [ ] create mongoose api with express
 
