@@ -13,16 +13,15 @@ saya berserta teman saya @wahpratama hendak membangun web sekolah kami yang lebi
 - [ ] Guru dan staff
 - [ ] denah & alamat sekolah
 - [ ] media sosial / kontak sekolah (footer)
-- [ ] No internet handler
+
 
 ## backend Todo:
 
 ## Local Usage
 - [ ] connect mongoDB with mongoose
 - [ ] create mongoose rest api with express
-- [ ] connect mongoDB with mongoose
-- [ ] create mongoose api with express
-
+- [ ] No internet handler
+- [ ] can't not found img || no img
 ```
 $ git clone https://github.com/tera3xbyte/smpn13denpasar.git
 $ cd smpn13denpasar
