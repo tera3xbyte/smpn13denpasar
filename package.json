@@ -2,11 +2,12 @@
   "name": "smp13denpasar",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host",
     "build": "vite build",
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
+    "flowbite": "^1.4.7",
     "vue": "^3.2.37",
     "vue-router": "^4.0.16"
   },
