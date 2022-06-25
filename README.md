@@ -16,12 +16,13 @@ saya berserta teman saya @wahpratama hendak membangun web sekolah kami yang lebi
 
 
 ## backend Todo:
-
-## Local Usage
 - [ ] connect mongoDB with mongoose
 - [ ] create mongoose rest api with express
 - [ ] No internet handler
 - [ ] can't not found img || no img
+
+
+## Local Usage
 ```
 $ git clone https://github.com/tera3xbyte/smpn13denpasar.git
 $ cd smpn13denpasar
